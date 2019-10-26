@@ -2,11 +2,9 @@
 
 Is being develop using React + Node.js + Express + MongoDB (Mongoose) + Bootstrap + SocketIO
 
-Works as https://funretro.io
+Works such as https://funretro.io
 
-Created at the Bootcamp of Make it Real (Bogotá) - 2019
-
-## License
+## Install
 
 ```bash
 at client -> npm install
