@@ -6,6 +6,8 @@ Works as https://funretro.io or better :D
 
 ## Install
 
+Requires Mongo and Nodemon
+
 ```bash
 at /client > npm install
 at /server > npm install
