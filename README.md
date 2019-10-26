@@ -2,7 +2,7 @@
 
 Is being develop using React + Node.js + Express + MongoDB (Mongoose) + Bootstrap + SocketIO
 
-Works such as https://funretro.io
+Works as https://funretro.io
 
 ## Install
 
