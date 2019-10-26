@@ -1,6 +1,6 @@
 # RetroApp
 
-Is being develop using React + Node.js + Express + MongoDB (Mongoose) + Bootstrap + SocketIO
+Is being developed using React + Nodejs + Express + MongoDB (Mongoose) + Bootstrap + SocketIO
 
 Works as https://funretro.io or better :D
 
