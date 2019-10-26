@@ -7,9 +7,9 @@ Works as https://funretro.io or better :D
 ## Install
 
 ```bash
-at client -> npm install
-at server -> npm install
-at root directory -> npm install && npm start
+at /client > npm install
+at /server > npm install
+at root directory > npm install && npm start
 ```
 
 ## Known Issues
